@@ -2,11 +2,13 @@
 Simple arkanoid clone for arduino
 
   Arduino ardunoid game v1
+
   https://github.com/sd4solutions/arduino-ardunoid-game
 
   Work in progress, need to solve some glitches and need to add some some features(shots, bonus etc...)
   
   This code is provided by SD4Solutions di Domenico Spina
+  
   Email me: info@sd4solutions.com
   https://github.com/sd4solutions
   Please leave my logo and my copyright then use as you want
